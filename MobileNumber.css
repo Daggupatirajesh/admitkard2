@@ -1,0 +1,25 @@
+.container {
+    height: 400px;
+    width: 300px;
+    border: 1px blue solid;
+    text-align: center;
+}
+.heading {
+    color: blue;
+    font-size: 35px;
+    font-family: Roboto;
+    font-style: oblique;
+    font-weight: bold;
+}
+.btn {
+    background-color: orangered;
+    color: #ffffff;
+    border-radius: 25px;
+    width: 200px;
+    padding: 8px;
+    border: 0px;
+}
+
+.dropdown {
+    margin: 5px;
+}
